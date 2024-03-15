@@ -1,10 +1,6 @@
 # Identity Recognition from the Iris
 
-This project is about artificial identity recognition from the iris. I trained three Siamese CNN(Convolutional neural network) with PyTorch. Here are the accuracies of the models:
-
-- Model 1: Low accuracy
-- Model 2: 0.57 accuracy
-- Model 3: 0.91 accuracy
+This project is about artificial identity recognition from the iris. I trained three Siamese CNN(Convolutional neural network) with PyTorch.
 
 ## Dataset Source
 You can access the dataset source with this [link: [mmu-iris-dataset]](https://www.kaggle.com/datasets/naureenmohammad/mmu-iris-dataset).
