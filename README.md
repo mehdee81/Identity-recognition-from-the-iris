@@ -1,6 +1,6 @@
 # Identity Recognition from the Iris
 
-This project is about artificial identity recognition from the iris. I trained three Siamese CNN(Convolutional neural network) with PyTorch.
+This project is about identity recognition from the iris. I trained two Siamese CNN(Convolutional neural network) with PyTorch.
 
 ## Dataset Source
 You can access the dataset source with this [link: [mmu-iris-dataset]](https://www.kaggle.com/datasets/naureenmohammad/mmu-iris-dataset).
